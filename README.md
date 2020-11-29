@@ -6,3 +6,7 @@
 2. Import the pandas library as pd.
 3. Import the Numpy library as np.
 4. Print the following the statement: Hello Capstone Project Course!
+import pandas as pd 
+import numpy as np 
+print("Hello Capstone Project Course!")
+
